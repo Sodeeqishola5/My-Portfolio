@@ -12,8 +12,8 @@ const data = [
     id: 1,
     image: IMG1,
     title: 'Holiday-Challenge',
-    github: 'https://github.com/Sodeeqishola5/Exam_Project',
-    demo: 'https://my-greate-exam-project-site.vercel.app/'
+    github: 'https://github.com/Sodeeqishola5/Holiday-Challenge',
+    demo: 'https://exam-new-feature.vercel.app/'
   },
   {
     id: 2,
