@@ -25,30 +25,30 @@ const data = [
   {
     id: 3,
     image: IMG3,
+    title: 'Cryptocurrency-App',
+    github: 'https://github.com/Sodeeqishola5/Cryptocurrency-App',
+    demo: 'https://cryp-app.netlify.app/'
+  },
+  {
+    id: 4,
+    image: IMG4,
     title: 'GPT-3',
     github: 'https://github.com/Sodeeqishola5/GPT-3-App',
     demo: 'https://gpt-3-app-ecru.vercel.app/'
   },
   {
-    id: 4,
-    image: IMG4,
-    title: 'Restaurant-App',
+    id: 5,
+    image: IMG5,
+    title: 'Restauprant-App',
     github: 'https://github.com/Sodeeqishola5/GERICHT-APP',
     demo: 'https://gericht-app-peach.vercel.app/'
   },
   {
-    id: 5,
-    image: IMG5,
+    id: 6,
+    image: IMG6,
     title: 'Calculator-App',
     github: 'https://github.com/Sodeeqishola5/calc-app',
     demo: 'https://react-npeo4u.stackblitz.io'
-  },
-  {
-    id: 6,
-    image: IMG6,
-    title: 'Phonie-App',
-    github: 'https://github.com/Sodeeqishola5/circle-19-phonie',
-    demo: 'https://circle-19-phonie.apps-phonie.repl.co'
   },
 ]
 const Portfolio = () => {
