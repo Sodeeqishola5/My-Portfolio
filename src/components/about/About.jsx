@@ -35,12 +35,7 @@ const About = () => {
             </article>
           </div>
             <p>
-               Here's a quick summary about me:<br/>
-               Pronouns: He/him<br/>
-               I’m currently learning html, css, JavaScript and Reactjs.<br/>
-               I'm currently studying at AltSchool Africa School of Software Engineering. <br/>
-               I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.<br/>
-               Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).<br/>
+               I am a software engineer and technical writer with an extensive understanding of open-source, blockchain, software products, and server-less technologies, and a passionate speaker in these areas. Over the years, I have a solid technical background and experience working closely with developers to understand their needs and challenges. Proficient in advanced development methodologies and tools, focusing on driving the adoption of web3 technologies. Skilled in building relationships with key stakeholders, including developers, engineers, and product managers, and leading strategic initiatives with influential teams and individuals.
             </p>
             <a href='#contact' className='btn btn-primary'>Let's Talk</a>
         </div>
